@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd2c00</color>
+    <color name="colorPrimaryDark">#f44336</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightgreen">#30989895</color>
+    <color name="detailtextcolor">#fb1c2e</color>
+    <color name="Heading">#fb1c2e</color>
+    <color name="orange">#ffe0b2</color>
+    <color name="heading">#e2f7eab8</color>
+    <color name="datetextcolor">#0b5506</color>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Journal</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="your_note_here">your note here</string>
+    <string name="save">Save</string>
+    <string name="entry_title">Entry title</string>
+    <string name="your_description_here">Your note here</string>
+
+
+    <string-array name="menu">
+
+        <item>Edit</item>
+        <item>Delete</item>
+
+    </string-array>
+
+
+
+
+</resources>
